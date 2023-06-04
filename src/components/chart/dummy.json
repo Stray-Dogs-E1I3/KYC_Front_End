@@ -1,0 +1,9 @@
+{
+  "server": {
+    "NFT": 20,
+    "DeFi": 15,
+    "BuyToken": 10,
+    "Swap": 5,
+    "etc": 40
+  }
+}
